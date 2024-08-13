@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Cauã!
+## Olá, eu sou o Cauã! 👋
 
 
 - Cursando o primeiro semestre do bacharelado em Sistemas de Informação na FURG
