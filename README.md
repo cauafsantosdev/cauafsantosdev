@@ -3,7 +3,7 @@
 
 - Cursando o primeiro semestre do bacharelado em Sistemas de Informação na FURG
 - Atualmente estudando Python, HTML, CSS e JavaScript
-- Interessado principalmente em Desenvolvimento Web Full Stack, Ciência de Dados e IA
+- Interessado principalmente em Desenvolvimento Web Full Stack, Ciência de Dados, Machine Learning e IA
 ###
 - Outros interesses: Cinema e Metal Extremo
 ##
