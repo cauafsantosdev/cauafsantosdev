@@ -5,6 +5,6 @@
 - Atualmente estudando Python, HTML, CSS e JavaScript
 - Interessado principalmente em Desenvolvimento Web Full Stack, Ciência de Dados, Machine Learning e IA
 ###
-- Outros interesses: Cinema e Metal Extremo
+- Outros interesses: Cinema, Xadrez e Metal Extremo
 ##
 - Contato: cauafsantosdev@gmail.com ou @cauafsantosdev no Instagram e Linkedin
