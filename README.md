@@ -19,7 +19,7 @@
 
 ### - Estatísticas
 
-<p><img width="49%" src="https://github-readme-stats.vercel.app/api?username=cauafsantosdev&show_icons=true&theme=dark&locale=pt-br"> <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauafsantosdev&layout=compact&theme=dark"></p>
+<p><img width="49%" src="https://github-readme-stats.vercel.app/api?username=cauafsantosdev&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"> <img width="43.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauafsantosdev&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"></p>
 
 ### - Hobbies
 
