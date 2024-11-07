@@ -7,7 +7,7 @@
 
 ### - Minhas Linguagens e Ferramentas 
 
-[![Languages](https://skillicons.dev/icons?i=html,css,py)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=git,vscode,linux)](https://skillicons.dev)
 
