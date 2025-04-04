@@ -1,9 +1,9 @@
 ## Olá, eu sou o Cauã! 👋 
 
 
-- Cursando o primeiro ano do bacharelado em Sistemas de Informação na FURG
-- Atualmente estudando Python, HTML, CSS e JavaScript
-- Interessado principalmente em Ciência de Dados, Machine Learning e IA
+- Cursando o segundo ano do bacharelado em Sistemas de Informação na FURG
+- Sonho em trabalhar com Ciência de Dados e Machine Learning
+- Atualmente aprofundando meus conhecimentos de Python pra back-end e ciência de dados, banco de dados SQL e Algoritmos e Estruturas de Dados 
 
 ### - Minhas Linguagens e Ferramentas 
 
@@ -23,4 +23,4 @@
 
 ### - Hobbies
 
-- Cinema, Xadrez e Metal Extremo
+- Cinema, Xadrez e Música
