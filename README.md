@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a second-year Information Systems student at FURG in Rio Grande, RS, Brazil. My primary focus is on **Data Science** and **Machine Learning**, passionate about finding the story behind the data, using creativity to develop ML solutions that generate practical insights and deliver value. I also have a strong interest in building the entire infrastructure behind the models, which drives me to constantly improve my **Back-End Development** skills.
+I'm a second-year Information Systems student at FURG in Rio Grande, RS, Brazil. My primary focus is on **Data Science** and **Machine Learning**, using creativity to develop ML solutions that generate practical insights and deliver value. I also have a strong interest in building the entire infrastructure behind the models, which drives me to constantly improve my **Back-End Development** skills.
 
 I'm currently seeking an internship opportunity where I can apply my knowledge, learn from experienced professionals, and contribute to challenging projects.
 
